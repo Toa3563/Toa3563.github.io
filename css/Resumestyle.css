@@ -1,0 +1,20 @@
+.objective{
+    font-weight: bold;
+    font-size: 18px;
+    border-bottom: 1px solid black;
+}
+div{
+    border: 3px solid black;
+    box-shadow: aqua;
+    display: flex;
+    margin: auto;
+    padding: auto;
+    flex-direction: column;
+    width: 40%;
+}
+#contacts{
+    border: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

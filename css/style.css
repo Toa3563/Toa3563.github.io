@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(146, 172, 239);
+}
+header{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    list-style: none;
+}
+li a{
+    color: white;
+}
+li a:hover{
+    color: aquamarine;
+    background-color: blueviolet;
+}
